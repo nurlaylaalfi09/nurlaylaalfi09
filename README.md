@@ -1,16 +1,38 @@
-### Hi there 👋
+# Self Introduction as a Student
 
-<!--
-**nurlaylaalfi09/nurlaylaalfi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Name
+Nur Layla Alfi Syahar
 
-Here are some ideas to get you started:
+## Grade
+10
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## School
+Sains Al-qur'an Senior High School Wahid Hasyim
+## Hobbies and Interests
+- write
+- listening to music
+- Interest in painting or making art as a hobby
+
+
+## Favorite Subjects
+- Physics
+- Chemistry
+- History
+- Sociology
+
+## Aspirations
+be yourself and be proud of yourself
+
+
+## fun facts
+- I like looking at the stars and of course twilight
+- I like  sweet foods
+
+## Inspirational Quote
+Live as if you will die tomorrow. Learn as if you would live forever.
+
+## Contact
+- Email: nurlaylaalfi09@gmail.com
+- Instagram: @lay.alfisya._
+
+
